@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42825
     wikipedia: http://en.wikipedia.org/wiki/E._G._Swain
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44581#The-Stoneground-Ghost-TalesBatchel-the-vicar-of-the-parish.
 gutenberg_issued: '2014-01-04'
 gutenberg_type: Text
 identifiers:
