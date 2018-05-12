@@ -1,0 +1,34 @@
+_repo: The-Stoneground-Ghost-TalesBatchel-the-vicar-of-the-parish._44581
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44581-h/images/front_cover.jpg
+creator:
+  author:
+    agent_name: Swain, E. G. (Edmund Gill)
+    alias: Swain, Edmund Gill
+    birthdate: 1861
+    deathdate: 1938
+    gutenberg_agent_id: '42825'
+    url: http://www.gutenberg.org/2009/agents/42825
+    wikipedia: http://en.wikipedia.org/wiki/E._G._Swain
+description: ''
+gutenberg_issued: '2014-01-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44581'
+  lccn: '34038300'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ghost stories, English'
+- !lcsh 'Fiction'
+- !lcc 'PR'
+tableOfContents: The man with the roller -- Bone to his bone -- The richpins -- The
+  eastern window -- Lubrietta -- The rockery -- The Indian lamp shade -- The place
+  of safety -- The kirk spook.
+title: "The Stoneground Ghost Tales\r\nCompiled from the recollections of the reverend\
+  \ Roland Batchel, the vicar of the parish."
+url: http://www.gutenberg.org/ebooks/44581
